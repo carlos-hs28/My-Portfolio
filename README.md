@@ -1,4 +1,4 @@
-# Hi there, I'm [Carlos Miguel Nuñez]! 👋
+<h1 align="left">Hi there, I'm Carlos Miguel Nuñez! 👋</h1>
 
 ---
 
@@ -10,7 +10,7 @@ I am a passionate **3rd-year Information Technology student** dedicated to build
 - 🌱 **Currently learning:** Advanced Full-Stack Development & Database Optimization
 - 👯 **Looking to collaborate on:** Open-source projects and web app development
 - 💬 **Ask me about:** HTML/CSS, JavaScript, Python, and UI/UX design fundamentals
-- 📫 **How to reach me:** [carlosnunezhs@gmail.com](carlosnunezhs@gmail.com)
+- 📫 **How to reach me:** [carlosnunezhs@gmail.com](mailto:carlosnunezhs@gmail.com)
 
 ---
 
@@ -41,9 +41,24 @@ I am a passionate **3rd-year Information Technology student** dedicated to build
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" alt="Carlos's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:carlosnunezhs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
