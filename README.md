@@ -60,5 +60,5 @@ I am a passionate **3rd-year Information Technology student** dedicated to build
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>"Computers are fast; programmers keep it slow."</i>
 </p>
